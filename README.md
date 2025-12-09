@@ -90,10 +90,10 @@ Dự án này được thực hiện và phát triển bởi:
 
 | Họ và Tên | Vai trò | Liên hệ/Social |
 |---|---|---|
-| **Trần Thị Minh Anh** | Project Lead / Frontend | [https://github.com/manh-25] |
-| **Nguyễn Minh Nhật** | Backend Developer / AI Engineer | [https://github.com/nhatm2400] |
-| **Nguyễn Trí Dũng** | AI Engineer | [https://github.com/Lan0-NTD] |
-| **Lê Minh Tuấn** | Data Engineer / Frontend | [https://github.com/YouttyLe-DSAI] |
+| **Trần Thị Minh Anh** | Project Lead / Frontend | https://github.com/manh-25 |
+| **Nguyễn Minh Nhật** | Backend Developer / AI Engineer | https://github.com/nhatm2400 |
+| **Nguyễn Trí Dũng** | AI Engineer | https://github.com/Lan0-NTD |
+| **Lê Minh Tuấn** | Data Engineer / Frontend | https://github.com/YouttyLe-DSAI |
 
 
 ---
