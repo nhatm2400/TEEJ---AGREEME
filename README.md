@@ -34,7 +34,7 @@ Dự án sử dụng các dịch vụ AWS cốt lõi:
 ### Các bước triển khai
 1.  **Clone Repository:**
     ```bash
-    git clone https://gitlab.com/manh-25/contract-demo.git
+    git clone https://github.com/nhatm2400/TEEJ---AGREEME.git
     cd contract-demo
     ```
 2.  **Triển khai Cơ sở hạ tầng:**
