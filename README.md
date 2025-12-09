@@ -95,7 +95,6 @@ Dự án này được thực hiện và phát triển bởi:
 | **Nguyễn Trí Dũng** | AI Engineer | [https://github.com/Lan0-NTD] |
 | **Lê Minh Tuấn** | Data Engineer / Frontend | [https://github.com/YouttyLe-DSAI] |
 
-*(Thay thế thông tin trên bằng tên thật của các thành viên trong nhóm bạn)*
 
 ---
 
